@@ -27,6 +27,8 @@ export default AboutPage
 
 This file exports a simple component that renders an `h1` element with the text "About Page". When a user navigates to `http://localhost:3000/about`, they will see this page.
 
+---
+
 ## Using the Link Component
 
 Next.js provides a `Link` component that makes it easy to create links between pages. Instead of using the traditional `<a>` tag, you can use the `Link` component to create links that work with Next.js's routing system.
@@ -42,6 +44,8 @@ import Link from 'next/link'
 ```
 
 This will create a link that displays as "About Us", but when the user clicks on it, they will be taken to the URL `http://localhost:3000/about`.
+
+---
 
 ## Customizing URLs with Dynamic Routes
 
@@ -75,6 +79,8 @@ To create a link to a dynamic route, you can use the `Link` component with an ob
 </Link>
 ```
 This will create a link that displays as "Product 123", but when the user clicks on it, they will be taken to the dynamic URL `http://localhost:3000/products/[id]` with the `id` parameter set to `123`.
+
+---
 
 ## Nested Routes
 
@@ -115,6 +121,8 @@ To create a link to a nested route, you can use the `Link` component with an obj
 ```
 
 This will create a link that displays as "Electronics Product 123", but when the user clicks on it, they will be taken to the nested URL `http://localhost:3000/products/[category]/[id]` with the `category` parameter set to `electronics` and the `id` parameter set to `123`.
+
+---
 
 ## Conclusion
 
