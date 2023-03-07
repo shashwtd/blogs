@@ -12,9 +12,13 @@ tags: design, animations, css
 
 Hover effects are a great way to add some visual interest and interactivity to your web designs. With CSS transform origin, you can take your hover effects to the next level by creating realistic and dynamic animations.
 
+<br />
+
 ## What is CSS `transform-origin`?
 
 CSS transform origin is a property that allows you to specify the origin point of a CSS transformation. It determines where the transformation takes place and in which direction. By default, the transform origin is set to the center of an element.
+
+---
 
 ## How to use CSS transform origin to create hover effects?
 
