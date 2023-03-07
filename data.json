@@ -2,10 +2,10 @@
 	"blogs": [
 		{
 			"title": "Transform-Origin — Elevating Your CSS Hover Animations!",
-            "date": "5th March 2023",
-            "id": "transform-origin-elevating-your-css-hover-animations",
+            		"date": "5th March 2023",
+            		"id": "transform-origin-elevating-your-css-hover-animations",
 			"description":
-				"A quick guide to using transform-origin for taking you hover animations to the next level. This guide explains how to set transform-origin based on the direction the mouse left the element. This is a great way to make your hover animations feel more realistic and dynamic."
+				"Take your hover animations to the next level with this quick guide on using transform-origin! By adjusting the transform-origin based on the direction of the mouse, you can create more realistic and dynamic hover effects. Whether you're a seasoned developer or just getting started, this tutorial provides easy-to-follow instructions for implementing this technique. With a bit of creativity and experimentation, you can customize this technique to fit your unique design needs and create stunning animations that are sure to wow your visitors!"
 		}
 	]
 }
