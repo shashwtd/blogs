@@ -1,6 +1,6 @@
 
 ---
-title: "Routing in Next.js"
+title: "Routing in Next.js — The Complete guide!"
 description: "Routing is an essential part of any web application, and Next.js provides a powerful and flexible system for handling it. Learn how to create simple and dynamic routes, customize URLs with dynamic parameters, and create nested routes in this comprehensive guide to routing in Next.js."
 date: "March 8, 2023"
 id: "routing-in-nextjs"
