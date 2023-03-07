@@ -1,4 +1,3 @@
-
 ---
 
 title: Routing in Next.js — The Complete guide!
