@@ -1,7 +1,7 @@
 ---
 
 title: Transform-Origin — Elevating Your CSS Hover Animations!
-date: 5th March 2023
+date: March 5, 2023
 id: transform-origin-elevating-your-css-hover-animations
 description: Take your hover animations to the next level with this quick guide on using transform-origin! By adjusting the transform-origin based on the direction of the mouse-leave, you can create more realistic and dynamic hover effects. With a bit of creativity and experimentation, you can customize this technique to fit the unique design needs for your website!
 
